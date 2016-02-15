@@ -1,0 +1,24 @@
+{
+  "name": "grunt-file-menu",
+  "version": "1.0.0",
+  "description": "指定一个目录，可以生成该目录下所有文件的树形菜单",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelvshi/grunt-file-menu.git"
+  },
+  "keywords": [
+    "tree",
+    "menu",
+    "menu"
+  ],
+  "author": "kelvshi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kelvshi/grunt-file-menu/issues"
+  },
+  "homepage": "https://github.com/kelvshi/grunt-file-menu#readme"
+}
